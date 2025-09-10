@@ -18,13 +18,13 @@ It provides both **web-based visualization** and **GUI utilities** for deeper in
 
 ---
 
-## 📖 Overview  
+## Overview  
 This project is designed for **students, developers, and network administrators** who want a simple yet powerful way to analyze packets and traffic flows directly on **Linux**.  
 It works seamlessly inside **WSL (Ubuntu)** or **native Linux environments**.  
 
 ---
 
-## ✨ Features  
+## Features  
 - 📡 **Live Packet Capture** using Scapy  
 - 📊 **Traffic Analysis Dashboard** via Flask (web-based)  
 - 🖥️ **Python GUI Sniffer** for local monitoring  
@@ -34,7 +34,8 @@ It works seamlessly inside **WSL (Ubuntu)** or **native Linux environments**.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
 network_traffic_analyzer/
 │── app.py # Flask web server
 │── gui_sniffer.py # GUI-based packet sniffer
