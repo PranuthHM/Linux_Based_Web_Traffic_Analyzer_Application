@@ -54,26 +54,30 @@ pip install -r requirements.txt
 </a>
 
 
-## ▶️ Usage
+<a name="usage"> ## ▶️ Usage
 Run Application
 ``` bash
 sudo $(which python3) gui_sniffer.py
 ```
-## 🖼️ Screenshots
-![Application](https://github.com/PranuthHM/Linux_Based_Web_Traffic_Analyzer_Application/blob/main/images/Application.png?raw=true)
+</a>
 
-## 🛠️ Tech Stack
+<a name="screenshots"> ## 🖼️ Screenshots
+![Application](https://github.com/PranuthHM/Linux_Based_Web_Traffic_Analyzer_Application/blob/main/images/Application.png?raw=true)
+</a>
+
+<a name="tech-stack"> ## 🛠️ Tech Stack
 
     Python 3
     Scapy (Packet Sniffing)
     Tkinter / PyQt (GUI for sniffers)
+</a>
 
-## 👤 Author
+<a name="author"> ## 👤 Author
 
 Pranuth HM
 🔗 [GitHub Profile](https://github.com/PranuthHM)
 
-
+</a>
 
 
 
