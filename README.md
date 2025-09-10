@@ -35,6 +35,7 @@ It works seamlessly inside **WSL (Ubuntu)** or **native Linux environments**.
 ---
 
 ## Project Structure
+
 network_traffic_analyzer/
 │── app.py # Flask web server
 │── gui_sniffer.py # GUI-based packet sniffer
