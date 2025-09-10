@@ -32,7 +32,7 @@ It works seamlessly inside **WSL (Ubuntu)** or **native Linux environments**.
 - ⚡ Lightweight and extensible  
 
 ---
-<a name="installation"> ## ⚙️ Installation  
+<a name="installation"> ⚙️ Installation  
 
 ### 1. Clone the Repository  
 ```bash
