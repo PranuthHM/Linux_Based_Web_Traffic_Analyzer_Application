@@ -51,7 +51,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 </a>
-
+---
 
 <a name="usage"> ▶️ Usage
 Run Application
@@ -60,10 +60,13 @@ sudo $(which python3) gui_sniffer.py
 ```
 </a>
 
+---
+
 <a name="screenshots"> 🖼️ Screenshots
 ![Application](https://github.com/PranuthHM/Linux_Based_Web_Traffic_Analyzer_Application/blob/main/images/Application.png?raw=true)
 </a>
 
+---
 <a name="tech-stack"> 🛠️ Tech Stack
 
     Python 3
@@ -71,12 +74,14 @@ sudo $(which python3) gui_sniffer.py
     Tkinter / PyQt (GUI for sniffers)
 </a>
 
+---
 <a name="author"> 👤 Author
 
 Pranuth HM
 🔗 [GitHub Profile](https://github.com/PranuthHM)
 
 </a>
+---
 
 
 
