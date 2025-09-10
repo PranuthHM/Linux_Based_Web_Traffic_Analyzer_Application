@@ -9,11 +9,11 @@ It provides both **web-based visualization** and **GUI utilities** for deeper in
 ## 📌 Table of Contents
 - [Overview](#overview)  
 - [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Screenshots](#screenshots)  
-- [Tech Stack](#tech-stack)  
-- [Author](#author)  
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Tech Stack](#tech-stack)
+- [Author](#author)
 
 ---
 
@@ -32,7 +32,7 @@ It works seamlessly inside **WSL (Ubuntu)** or **native Linux environments**.
 - ⚡ Lightweight and extensible  
 
 ---
-
+<a name="installation">
 ## ⚙️ Installation  
 
 ### 1. Clone the Repository  
@@ -51,6 +51,9 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+</a>
+
+
 ## ▶️ Usage
 Run Application
 ``` bash
